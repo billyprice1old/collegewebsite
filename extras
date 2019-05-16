@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>About Weymouth</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	</head>
+	<script>
+	console.log("This site is made by Billy-George")
+	</script>
+	<body>
+		<nav aria-label="breadcrumb">
+			<ol class="breadcrumb">
+			 <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+				<li class="breadcrumb-item"><a href="landmarks.html">Landmarks</a></li>
+				<li class="breadcrumb-item"><a href="history.html">History</a></li>
+				<li class="breadcrumb-item"><a href="events.html">Events</a></li>
+				<li class="breadcrumb-item"><a href="food.html">Food</a></li>
+
+			</ol>
+		</nav>
+		<center><h1>Extra Bit's And Bobs<rb</rb></h1>
+
+		<div class="container">
+ 			<div class="row">
+    				<div class="col-sm-4">
+				<img src="https://billyprice1.github.io/collegewebsite/assets/imgs/cheap.png" alt="Cheap Logo Icon" width="200" height="100">
+      				<h3>Cheap</h3>
+      				<p>Weymouth is a good place to visit. It is a good place to visit one of the most attractive reason to visit Weymouth is becuase it is a cheep day out with a lot of things to do</p>
+    			</div>
+
+    			<div class="col-sm-4">
+				<img src="https://billyprice1.github.io/collegewebsite/assets/imgs/knifeandfork.jpg" alt="Knife and Fork" width="200" height="100">
+      				<h3Weymouth Harbour Live Feed</h3>
+      				<p>Here is a live feed of Weymouth Harbour</p>
+      				<p>There are many exelect food places to visit in Weymouth just to name a few The Little Ship,Admiral Hardy,Fish 'n' Fritz if you were in Weymouth i would recommend that you get some fish and chips and visit the docks </p>
+              <iframe width="200" height="100" src="https://www.youtube.com/embed/y9TxxUZvkvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    			</div>
+
+    			<div class="col-sm-4">
+				<img src="https://billyprice1.github.io/collegewebsite/assets/imgs/beach.jpg" alt="Weymouth Beach Stock Image" width="200" height="100">
+      				<h3>Wonderful Beaches</h3>
+      				<p>Weymouth beach is by far one of the best Beaches in the uk. This is due to many diffrent reasons. For Example the beach is very clean and durring certain seasons there are lifegaurds stationed on the beach and Weymouth beach has a track record for being a safe beach</p>
+
+    			</div>
+
+
+
+
+		  </div>
+	</body>
+</html>
